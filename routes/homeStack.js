@@ -1,7 +1,7 @@
 import React from "react";
 import { createStackNavigator } from "@react-navigation/stack";
-import Home from "../screensB/home";
-import Details from "../screensB/details";
+import Home from "../screens/home";
+import Details from "../screens/details";
 import MenuButton from "../components/drawMenu";
 
 const Stack = createStackNavigator();

@@ -1,5 +1,5 @@
 import React from "react";
-import { StyleSheet, Button, View } from "react-native";
+import { StyleSheet, Button, View, Text } from "react-native";
 import { globalStyles } from "../Styles/globalStyles";
 
 export default function ModalDetails({ closeModal, navigation, id }) {
